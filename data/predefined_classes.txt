@@ -1,11 +1,3 @@
-ship
-plane
-dog
-person
-cat
-tv
-car
-
 bj_type-1-档-3-2
 bj_type-1-mA-1-0
 bj_type-1-V-1-0
