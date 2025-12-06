@@ -1,0 +1,6 @@
+{
+    "zhizhen_file": "D:/python_code/meter_nvidia_x86_64/pth_/zhizhen.pt",
+    "youwei_file": "D:/python_code/meter_nvidia_x86_64/GQ_youwei_1120.pt",
+    "dial_detection_model": "D:/python_code/train35/weights/best.pt",
+    "conf_thresh": 0.2
+}
